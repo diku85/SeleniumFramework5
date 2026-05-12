@@ -11,7 +11,7 @@ public class Testcases {
 	public void TC1() {
 		Assert.assertFalse(true);
 
-		//adding local changes-master branch newly added
+		//this is created in main branch for conflict issues
 	}
 
 }

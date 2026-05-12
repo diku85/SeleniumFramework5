@@ -11,7 +11,7 @@ public class Testcases {
 	public void TC1() {
 		Assert.assertFalse(true);
 
-		//this is created in main branch for conflict issues
+		//this is demo main branch for conflict issues
 	}
 
 }
